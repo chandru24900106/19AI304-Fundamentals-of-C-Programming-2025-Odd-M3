@@ -1,6 +1,6 @@
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd-M3
-# Name : INDHUJA.K
-# Register no : 212225040133
+# Name : chandru V
+# Register no : 212224230043
 # IAPR-3- Module 3 - FoC
 ## 5. Implementation of one-dimensional array and multidimensional array.
 ## 6. Implementation of string manipulation.
